@@ -135,4 +135,7 @@ Remember that the need for character escapes depends on the characters you want 
 
 Justin Ryan Moore
 
-[GitHub](https://github.com/justinryan8828)
+  E-Mail: justinryan8828@yahoo.com
+
+
+  Repo: [justinryan8828](https://github.com/justinryan8828)
